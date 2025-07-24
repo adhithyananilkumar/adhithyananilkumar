@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adhithyan Anilkumar</h1>
-<h3 align="center">End-to-End Developer | Computer Application Student at <a href="">Amal Jyothi College of Engineering</a></h3>
+<h3 align="center">End-to-End Developer | Computer Application Student at <a href="https://github.com/ajceautonomous">Amal Jyothi College of Engineering</a></h3>
 
 <p align="center">
   <a href="https://adhithyan.dev" target="_blank">
