@@ -9,9 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-adhithyan.dev-blue?style=flat-square&logo=firefox-browser" alt="Portfolio" />
   </a>
 </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Adhithyan-Anilkumar&show_icons=true&theme=radical" alt="GitHub stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyan-Anilkumar&layout=compact&theme=radical" alt="Top Langs" height="165"/> </p>
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Adhithyan-Anilkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Adhithyan-Anilkumar" /> </p> 
 
 ## 🚀 About Me
 
