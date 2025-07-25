@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adhithyan Anilkumar</h1>
 <h3 align="center">
-  End-to-End Developer | Computer Applications Student at 
+  End to End Developer | Computer Applications Student at 
   <a href="https://github.com/ajceautonomous" target="_blank">Amal Jyothi College of Engineering</a>
 </h3>
 
