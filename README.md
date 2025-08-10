@@ -23,9 +23,9 @@
 ## 💻 Tech Stack
 
 ```plaintext
-💡 Languages:      Java, Python, JavaScript, SQL, C, HTML, CSS
+💡 Languages:      PHP,Java, Python, JavaScript, SQL, C, HTML, CSS
 🖥️ Frontend:       React, Tailwind CSS, Bootstrap, Figma
-🗃️ Backend:        Spring Boot, Flask, Django
+🗃️ Backend:        Laravel.Spring Boot, Flask, Django
 🧠 Databases:      MySQL, MongoDB
 🔒 Security:       Spring Security, JWT
 🧰 Tools:          Git, Postman, VS Code, IntelliJ IDEA
