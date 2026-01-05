@@ -11,9 +11,9 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adhithyan-Anilkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Adhithyan-Anilkumar" /> </p> 
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Pursuing **Bachelor of Computer Applications with Honours**  
+- 🎓 Pursuing **Degree in Computer Applications**  
 - 🛠️ Passionate about building **End to End full stack applications**  
 - 🌱 Currently focusing on improving my skills in **React, Spring Boot, Databases, and Generative AI Engineering**  
 - 🌐 Portfolio: [adhithyan.dev](https://adhithyan.dev)
@@ -23,9 +23,9 @@
 ## 💻 Tech Stack
 
 ```plaintext
-💡 Languages:      PHP,Java, Python, JavaScript, SQL, C, HTML, CSS
-🖥️ Frontend:       React, Tailwind CSS, Bootstrap, Figma
-🗃️ Backend:        Laravel.Spring Boot, Flask, Django
+💡 Languages:      Go, Terraform,  PHP, Java, Python, JavaScript, SQL, C, HTML, CSS
+🖥️ Frontend:       React, Next.js, Tailwind CSS, Bootstrap, Figma
+🗃️ Backend:        Laravel, Spring Boot, Flask, Django
 🧠 Databases:      MySQL, MongoDB
 🔒 Security:       Spring Security, JWT, Firebase
 🧰 Tools:          Git, Postman, VS Code, IntelliJ IDEA, Photoshop, PHP Storm
