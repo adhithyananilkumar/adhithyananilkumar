@@ -28,4 +28,3 @@
 🗃️ Backend:        Laravel, Spring Boot, Flask, Django
 🧠 Databases:      MySQL, MongoDB
 🔒 Security:       Spring Security, JWT, Firebase
-🧰 Tools:          Git, Postman, VS Code, IntelliJ IDEA, Photoshop, PHP Storm
